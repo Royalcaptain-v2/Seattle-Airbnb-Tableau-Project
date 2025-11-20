@@ -1,8 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="dashboard/Seattle_Airbnb_Dashboard.png" width="900">
-</p>
-
 # 🏠 Seattle Airbnb Analysis — Tableau Dashboard Project
 
 This project explores Airbnb listing trends in Seattle using Tableau.  
@@ -18,10 +13,10 @@ Dataset pulled from Kaggle → *Seattle Airbnb Open Data*.
 |--------|------|
 | 📊 Dashboard Preview | [View](#📊-dashboard-preview) |
 | 📁 Project Structure | [View](#📁-project-structure) |
-| 🧠 Key Insights | [View](#🧠-key-insights) |
-| 🔧 Tools Used | [View](#🔧-tools-used) |
-| ▶️ How to Use | [View](#▶️-how-to-use) |
-| 📚 Dataset Source | [View](#📚-dataset-source) |
+| 🧠 Key Insights | [View](#key-insights) |
+| 🔧 Tools Used | [View](#tools-used) |
+| ▶️ How to Use | [View](#how-to-use) |
+| 📚 Dataset Source | [View](#dataset-source) |
 
 ---
 
@@ -31,11 +26,11 @@ Dataset pulled from Kaggle → *Seattle Airbnb Open Data*.
 Seattle-Airbnb-Tableau-Project/
 │
 ├── data/
-│   └── listings.csv
+│   └── Seattle_Airbnb_Dataset.xlsx
 │
 ├── dashboard/
 │   ├── AirBnb_Project.twb
-│   └── Seattle_Airbnb_Dashboard.png
+│   └── Seattle_Airbnb_Dashboard.PNG
 │
 └── README.md
 ```
@@ -45,7 +40,7 @@ Seattle-Airbnb-Tableau-Project/
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard/Seattle_Airbnb_Dashboard.png" width="880">
+  <img src="dashboard/Seattle_Airbnb_Dashboard.PNG" width="880">
 </p>
 
 Dashboard Visuals Include:
@@ -57,7 +52,7 @@ Dashboard Visuals Include:
 
 ---
 
-# 🧠 Key Insights
+# Key Insights
 
 ✔ **Avg price strongly increases with bedroom count.**  
 ✔ **Zip codes 98109, 98119, and 98121 show the highest average prices.**  
@@ -67,7 +62,7 @@ Dashboard Visuals Include:
 
 ---
 
-# 🔧 Tools Used
+# Tools Used
 
 - Tableau Desktop (for dashboard & visual analytics)  
 - Excel/CSV (raw data sources)  
@@ -76,7 +71,7 @@ Dashboard Visuals Include:
 
 ---
 
-# ▶️ How to Use
+# How to Use
 
 1. Download the Tableau workbook:  
    ```
@@ -85,9 +80,9 @@ Dashboard Visuals Include:
 
 2. Open it in **Tableau Desktop / Tableau Public**.
 
-3. Make sure the dataset (`listings.csv`) is in the expected relative path:
+3. Make sure the dataset (`Seattle_Airbnb_Dataset.xlsx`) is in the expected relative path:
    ```
-   data/listings.csv
+   Seattle_Airbnb_Dataset.xlsx
    ```
 
 4. Explore the interactive visualizations:
@@ -99,14 +94,15 @@ Dashboard Visuals Include:
 
 ---
 
-# 📚 Dataset Source
+# Dataset Source
 
 Kaggle → *Seattle Airbnb Open Data*  
 https://www.kaggle.com/datasets/airbnb/seattle
 
 ---
 
-# ✨ Author
+# Author
 
-**Your Name**  
+**Bhavishya Pancholi**  
 Tableau | Data Visualization | Geospatial Analysis | Airbnb Analytics
+
