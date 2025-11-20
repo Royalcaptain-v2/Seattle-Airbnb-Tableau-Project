@@ -11,8 +11,8 @@ Dataset pulled from Kaggle → *Seattle Airbnb Open Data*.
 
 | Section | Link |
 |--------|------|
-|  Dashboard Preview | [View](#📊-dashboard-preview) |
-|  Project Structure | [View](#📁-project-structure) |
+|  Dashboard Preview | [View](#dashboard-preview) |
+|  Project Structure | [View](#project-structure) |
 |  Key Insights | [View](#key-insights) |
 |  Tools Used | [View](#tools-used) |
 |  How to Use | [View](#how-to-use) |
@@ -20,7 +20,7 @@ Dataset pulled from Kaggle → *Seattle Airbnb Open Data*.
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 Seattle-Airbnb-Tableau-Project/
@@ -37,7 +37,7 @@ Seattle-Airbnb-Tableau-Project/
 
 ---
 
-# 📊 Dashboard Preview
+# Dashboard Preview
 
 <p align="center">
   <img src="dashboard/Seattle_Airbnb_Dashboard.PNG" width="880">
@@ -54,20 +54,19 @@ Dashboard Visuals Include:
 
 # Key Insights
 
-✔ **Avg price strongly increases with bedroom count.**  
-✔ **Zip codes 98109, 98119, and 98121 show the highest average prices.**  
-✔ **Listings are highly concentrated in central Seattle neighborhoods.**  
-✔ **Bedroom distribution is dominated by 1-bed and 2-bed listings.**  
-✔ **Seasonal spikes** appear mid-year (June–August), showing Airbnb demand patterns.  
+- **Avg price strongly increases with bedroom count.**  
+- **Zip codes 98109, 98119, and 98121 show the highest average prices.**  
+- **Listings are highly concentrated in central Seattle neighborhoods.**  
+- **Bedroom distribution is dominated by 1-bed and 2-bed listings.**  
+- **Seasonal spikes** appear mid-year (June–August), showing Airbnb demand patterns.  
 
 ---
 
 # Tools Used
 
 - Tableau Desktop (for dashboard & visual analytics)  
-- Excel/CSV (raw data sources)  
-- Geographic Visualization (Mapbox)  
-- Data Cleaning & Aggregation  
+- Excel (raw data sources)  
+- Geographic Visualization (Mapbox)   
 
 ---
 
@@ -105,6 +104,7 @@ https://www.kaggle.com/datasets/airbnb/seattle
 
 **Bhavishya Pancholi**  
 Tableau | Data Visualization | Geospatial Analysis | Airbnb Analytics
+
 
 
 
