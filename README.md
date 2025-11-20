@@ -11,12 +11,12 @@ Dataset pulled from Kaggle → *Seattle Airbnb Open Data*.
 
 | Section | Link |
 |--------|------|
-| 📊 Dashboard Preview | [View](#📊-dashboard-preview) |
-| 📁 Project Structure | [View](#📁-project-structure) |
-| 🧠 Key Insights | [View](#key-insights) |
-| 🔧 Tools Used | [View](#tools-used) |
-| ▶️ How to Use | [View](#how-to-use) |
-| 📚 Dataset Source | [View](#dataset-source) |
+|  Dashboard Preview | [View](#📊-dashboard-preview) |
+|  Project Structure | [View](#📁-project-structure) |
+|  Key Insights | [View](#key-insights) |
+|  Tools Used | [View](#tools-used) |
+|  How to Use | [View](#how-to-use) |
+|  Dataset Source | [View](#dataset-source) |
 
 ---
 
@@ -105,4 +105,5 @@ https://www.kaggle.com/datasets/airbnb/seattle
 
 **Bhavishya Pancholi**  
 Tableau | Data Visualization | Geospatial Analysis | Airbnb Analytics
+
 
