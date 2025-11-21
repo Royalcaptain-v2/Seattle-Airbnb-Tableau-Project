@@ -25,8 +25,7 @@ Dataset pulled from Kaggle → *Seattle Airbnb Open Data*.
 ```
 Seattle-Airbnb-Tableau-Project/
 │
-├── data/
-│   └── Seattle_Airbnb_Dataset.xlsx
+├── data.rar
 │
 ├── dashboard/
 │   ├── AirBnb_Project.twb
@@ -105,6 +104,7 @@ https://www.kaggle.com/datasets/airbnb/seattle
 
 **Bhavishya Pancholi**  
 Tableau | Data Visualization | Geospatial Analysis | Airbnb Analytics
+
 
 
 
