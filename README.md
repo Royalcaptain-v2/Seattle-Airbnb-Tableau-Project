@@ -78,18 +78,19 @@ Dashboard Visuals Include:
    ```
 
 2. Open it in **Tableau Desktop / Tableau Public**.
+3. Download the `data.rar` file and extract.
+4. Then Extract calender.rar and review.rar from the data.rar.
+5. open listings.csv in Microsoft Excel and import calender.csv and reviews.csv.
+6. Save the sheets as (Seattle_Airbnb_Dataset.xlsx).
 
-3. Make sure the dataset (`Seattle_Airbnb_Dataset.xlsx`) is in the expected relative path:
-   ```
-   Seattle_Airbnb_Dataset.xlsx
-   ```
+7. Import (Seattle_Airbnb_Dataset.xlsx) into `AirBnb_Project.twb`
 
-4. Explore the interactive visualizations:
+8. Explore the interactive visualizations:
    - Hover on map regions  
    - View price trends  
    - Analyze bedrooms & zip code differences  
 
-5. Modify or extend the dashboard based on your analytical needs.
+9. Modify or extend the dashboard based on your analytical needs.
 
 ---
 
@@ -104,6 +105,7 @@ https://www.kaggle.com/datasets/airbnb/seattle
 
 **Bhavishya Pancholi**  
 Tableau | Data Visualization | Geospatial Analysis | Airbnb Analytics
+
 
 
 
